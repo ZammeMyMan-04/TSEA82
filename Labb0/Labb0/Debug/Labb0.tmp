@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\Debug\Labb0.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Labb0.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Labb0.map</FILE>
+  <FILE>Labb0.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\main.asm</FILE><LINE>27</LINE></INIT>
+  <LOOP><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\main.asm</FILE><LINE>15</LINE></LOOP>
+  <KEY><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\main.asm</FILE><LINE>40</LINE></KEY>
+  <NOT_MAX><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\main.asm</FILE><LINE>21</LINE></NOT_MAX>
+  <PRINT><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\main.asm</FILE><LINE>50</LINE></PRINT>
+  <READ_BIT0><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\main.asm</FILE><LINE>36</LINE></READ_BIT0>
+  <KEY_WAIT><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\Labb0\Labb0\main.asm</FILE><LINE>43</LINE></KEY_WAIT>
+ </LABELS>
+</ASSEMBLER_INFO>
