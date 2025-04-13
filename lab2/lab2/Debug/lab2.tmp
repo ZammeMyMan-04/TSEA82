@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16A"</DEVICE>
+ <WORKING_DIR>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\Debug\lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab2.map</FILE>
+  <FILE>lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MORSE><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>123</LINE></MORSE>
+  <MORSE_TABELL><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>14</LINE></MORSE_TABELL>
+  <MESSAGE><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>43</LINE></MESSAGE>
+  <INIT><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>47</LINE></INIT>
+  <GET_CHAR><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>57</LINE></GET_CHAR>
+  <LOOKUP><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>63</LINE></LOOKUP>
+  <GET_BIT><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>81</LINE></GET_BIT>
+  <SEND><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>85</LINE></SEND>
+  <send_bits><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>87</LINE></send_bits>
+  <ld_long><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>92</LINE></ld_long>
+  <ld_short><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>89</LINE></ld_short>
+  <send_bits_rest><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>97</LINE></send_bits_rest>
+  <BEEP><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>106</LINE></BEEP>
+  <NO_BEEP><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>110</LINE></NO_BEEP>
+  <send_bits_done><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>103</LINE></send_bits_done>
+  <BEEP_CHAR><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>115</LINE></BEEP_CHAR>
+  <done><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>132</LINE></done>
+  <one_char><FILE>C:\Users\Admin\OneDrive - Linköpings universitet\TSEA82\lab2\lab2\main.asm</FILE><LINE>128</LINE></one_char>
+ </LABELS>
+</ASSEMBLER_INFO>
